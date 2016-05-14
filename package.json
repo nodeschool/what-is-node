@@ -1,0 +1,26 @@
+{
+  "name": "what-is-node",
+  "version": "1.0.0",
+  "description": "Variants explaining: What is node?",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && npm run remark && npm run unit",
+    "remark": "remark -u remark-lint *.md",
+    "unit": "tap test/**/*.js"
+  },
+  "keywords": [
+    "introduction",
+    "about",
+    "short-but-good"
+  ],
+  "author": "Martin Heidegger <martin.heidegger@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "remark": "^4.2.2",
+    "standard": "^7.0.1"
+  },
+  "dependencies": {
+    "remark-lint": "^3.2.1",
+    "tap": "^5.7.1"
+  }
+}
