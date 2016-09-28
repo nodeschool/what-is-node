@@ -16,4 +16,4 @@ like [Word](https://simple.wikipedia.org/wiki/Microsoft_Word) or
 [iTunes](https://simple.wikipedia.org/wiki/ITunes), Server applications
 like [Apache](https://simple.wikipedia.org/wiki/Apache_HTTP_Server),
 Network applications like [Curl](https://curl.haxx.se/) or even mobile
-applications forthe iPhone or Android.
+applications for the iPhone or Android.
